@@ -1,2 +1,2 @@
-# IBM-Capstone
-This repository is demostration of my IBM course capston
+# Hotel Site Selection in NYC
+This is an IBM  Applied  Data Science Capstone Project. The objective of this capstone project is to analyze and select the best locations in the New York City to open a new Hotel. Using data science methodology and machine learning techniques like k-means clustering and data visualization, this project aims to provide solutions to answer the business question: In the New York City if a property developer is looking to open a new hotel, where would you recommend that they open it?
